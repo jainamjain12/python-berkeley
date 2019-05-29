@@ -72,7 +72,7 @@ We have a recommended installation process [linked here](/learn).
 
 #### Online Python interpreters
 - [PySchools](http://doc.pyschools.com/console)
-- [Codecademy Labs](http://labs.codecademy.com)
+- [Intellipaat.com](https://intellipaat.com/tutorial/python-tutorial/)
 - [Wakari.io](http://wakari.io) (for Jupyter notebooks)
 
 #### On your own computer
